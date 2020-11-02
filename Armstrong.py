@@ -1,4 +1,4 @@
-#armstrong no: A no, equivalent to sum of each digits cube
+#armstrong no: A number which is equivalent to sum of its each digits cube.
 def armstrong(num):
     sum = 0
     temp = num
