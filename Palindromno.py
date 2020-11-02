@@ -1,3 +1,5 @@
+#A number is said to be a palindrome if its reverse is same as the original number 
+
 numb = int(input("Enter no. to check palindrome: "))
 temp = numb
 reverse = 0
